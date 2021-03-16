@@ -1,9 +1,9 @@
 ### Hi there 👋 The name's Nick!
-I am a full-stack software engineer who specializes in cloud native technologies and architecture while practicing SRE principles. I frequently work with distributed systems, microservices, event sourcing designs, and orchestration platforms. I strive to both produce excellent work in my craft and continually educate myself on various technologies. I currently am hacking on [Timescale Forge](https://www.timescale.com/forge) over at [TimescaleDB](https://www.timescale.com/).
+I am a full-stack software engineer who specializes in cloud native technologies and architecture while practicing SRE principles. I frequently work with distributed systems, microservices, event driven architecture, and orchestration platforms. I strive to both produce excellent work in my craft and continually educate myself on various technologies. I currently am hacking on [Timescale Forge](https://www.timescale.com/forge) over at [TimescaleDB](https://www.timescale.com/).
 
 #### 💬 Languages
 
-<img src="https://img.shields.io/badge/-Golang-00ADD8.svg?logo=go&logoColor=white&style=for-the-badge"> <img src="https://img.shields.io/badge/-Rust-000.svg?logo=rust&logoColor=654835&labelColor=&style=for-the-badge"> <img src="https://img.shields.io/badge/-javascript-F7DF1E.svg?logo=javascript&&logoColor=black&textColor=black&style=for-the-badge"> <img src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=for-the-badge"> <img src="https://img.shields.io/badge/-Dart-0175C2.svg?logo=dart&style=for-the-badge"> <img src="https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Golang-00ADD8.svg?logo=go&logoColor=white&style=for-the-badge"> <img src="https://img.shields.io/badge/-Rust-000.svg?logo=rust&logoColor=654835&labelColor=&style=for-the-badge"> <img src="https://img.shields.io/badge/-javascript-F7DF1E.svg?logo=javascript&&logoColor=black&textColor=black&style=for-the-badge"> <img src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&logoColor=white&style=for-the-badge"> <img src="https://img.shields.io/badge/-Dart-0175C2.svg?logo=dart&style=for-the-badge"> <img src="https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=for-the-badge">
 
 #### ☁️ Cloud Native & DevOps
 
